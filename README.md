@@ -1,2 +1,2 @@
 # Weather-App
-Gives weather for a city.
+Get instant weather updates for any city, complete with temperature and conditions.
